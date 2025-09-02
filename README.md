@@ -2,7 +2,7 @@
 
 ---
 
-## 🌐 Socials
+<h2>🌐 Socials</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
