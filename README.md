@@ -1,8 +1,7 @@
  Hi there 👋
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/iSFyix/iSFyix/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
